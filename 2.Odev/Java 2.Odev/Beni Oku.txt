@@ -1,0 +1,4 @@
+Projede Kontrol yapmak için ilk olarak Kisiler.txt dosyasý oluþturulmalý ve
+aþaðýdaki formatta olmalýdýr.
+34448669351   Reginald Mccann 23  05310040417  (721684387554113)
+29114464416   Daniel Hampton 34  05550476300  (278275525445584)
